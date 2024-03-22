@@ -1,0 +1,15 @@
+*{
+    color: #f00;
+    text-shadow: 0 0 15px #f00;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+body{
+    background-color: #000;
+}
+
+.espaco{
+    height: 10000px;
+}
